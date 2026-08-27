@@ -5,7 +5,7 @@
 RVLX Kasa, kurulum dosyası (installer) olarak dağıtılan bir masaüstü kasa
 uygulamasıdır.
 
-**Güncel sürüm:** v3.0.1
+**Güncel sürüm:** v3.0.2
 
 **İndir:** [En güncel sürüm](https://github.com/tlgtrzi-code/arvelx.com/releases/latest)
 
