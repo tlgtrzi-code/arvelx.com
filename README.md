@@ -17,6 +17,12 @@ Masaüstü, mobil ve web için RVLX ürün ailesi — tek hesap, tek lisans, gü
 <img src="assets/urunler.jpg" alt="RVLX ürünleri: RVLX Kasa, RVLX Media, RVLX Media Desktop; geliştirilenler: RVLX Quant, RVLX AI, RVLX Trade" width="100%">
 </div>
 
+## 🆕 Son güncellemelerde
+
+- **RVLX Kasa 3.1** — RVLX Rapor Modüler, Excel düzeninde yeni Faturalar ve Komisyon takibi sayfaları, 40 MB'a kadar PDF'ten E-Arşiv.
+- **RVLX Media 5.302** — artık telefonunuzun müzik uygulamalarından biri: üst paneldeki "Müzik oynatma" düğmesinden doğrudan RVLX Player açılır.
+- **RVLX Media Desktop 1.1** — Chrome, Edge ve Brave'de videonun köşesinde tek tıkla MP3, MP4 ya da tüm oynatma listesi.
+
 ## 🚀 Yayındaki ürünler
 
 <table>
@@ -25,12 +31,15 @@ Masaüstü, mobil ve web için RVLX ürün ailesi — tek hesap, tek lisans, gü
 <td>
 
 ### RVLX Kasa
-**Günlük hesabınızı akşam kapatın, defter tutmayı bırakın.**
-Küçük işletmeler ve esnaf için kasa takibi. Gelir gider girin, gün sonunda kapanışı alın. Muhasebe bilgisi gerekmez.
+**Her işletme için kasa, fatura ve raf yönetimi — muhasebe bilgisi gerekmez.**
+Esnaf ve küçük işletmeler için günlük kasa takibi. Gelir gideri girin, gün sonunda kapanışı alın; faturalarınızı, komisyonlarınızı ve rafınızı aynı yerden yönetin.
 
-- 🧾 **Kasa hesapları** — birden fazla kasa tanımlayın, her birinin durumunu ayrı ayrı görün.
-- ➕ **Gelir gider takibi** — girişleri tek ekrandan yapın, sonradan düzenleyin.
-- 🌙 **Günlük kapanış** — gün sonunda kasanın ne kadar olması gerektiğini ve sayımla farkını gösterir.
+- 🌙 **Kasa ve gün sonu** — birden fazla kasa, tek ekrandan gelir gider ve sayımla farkı gösteren günlük kapanış.
+- 📊 **Raporlar** — Premium Rapor PRO Executive Ledger ve parçaları açıp kapatabildiğiniz **RVLX Rapor Modüler**.
+- 🧾 **E-Arşiv** — satış PDF'lerinizden GİB UBL-TR 1.2.1 uyumlu, doğrulanmış XML; KDV oranı PDF'ten okunur.
+- 📑 **Faturalar ve komisyon takibi** — Excel gibi tablo, yazdıkça tamamlanan firma ve cari adları, Tab ile hızlı giriş.
+- 🔎 **Raf yapay zekâ araması** — şikâyeti yazın, stokta işe yarayanı birkaç saniyede bulsun; benzer ürünler tek tıkla.
+- 🏪 **Her esnafa uygun** — ilaç, takviye, gıda, kozmetik, temizlik, hırdavat… raf ürün türünü tanır.
 
 <img src="https://img.shields.io/github/v/release/tlgtrzi-code/arvelx.com?filter=*Kasa*&display_name=release&label=son%20s%C3%BCr%C3%BCm&style=flat-square&color=2563eb" alt="RVLX Kasa son sürüm"> <img src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows" alt="Windows 10/11">
 
@@ -43,13 +52,15 @@ Küçük işletmeler ve esnaf için kasa takibi. Gelir gider girin, gün sonunda
 <td>
 
 ### RVLX Media
-**Tarayıcı, indirici ve oynatıcı tek uygulamada.**
-Android için RVLX Browser. İzlediğiniz YouTube videosunu, Shorts'u ya da Instagram Reels'i tek dokunuşla indirin; RVLX Player ile uygulamadan çıkmadan izleyin.
+**Tarayıcı, indirici ve müzik çalar tek uygulamada.**
+Android için RVLX Browser. İzlediğiniz YouTube videosunu, Shorts'u ya da Instagram Reels'i tek dokunuşla indirin; RVLX Player ile ekran kapalıyken bile dinleyin.
 
 - ▶️ **YouTube videoları ve Shorts** — video MP4, isterseniz yalnız ses MP3 olarak kaydedilir.
+- 📋 **Oynatma listeleri** — "Ne kadar indirilsin?" deyin, liste kuyruğa girsin.
+- 🎈 **Seyyar İndir butonu** — gezinirken ekranda yüzen buton; MP3, MP4 ya da Playlist tek dokunuşta.
 - 📸 **Instagram Reels ve gönderileri** — herkese açık içerikte aynı düğmeyle.
-- 📥 **RVLX İndir** — kuyruk, arka planda indirme ve bitince bildirim.
-- 🎬 **RVLX Player** — indirdikleriniz uygulama içinde kitaplık olarak listelenir.
+- 🎧 **RVLX Player** — indirdikleriniz kitaplıkta; arka planda ve kilit ekranında çalar, mini oynatıcı, araç ve Bluetooth tuşlarıyla kontrol.
+- 🎵 **Müzik uygulaması** — telefonun üst panelindeki "Müzik oynatma" düğmesinden doğrudan açılır.
 - 🛡️ **RVLX Browser** — izleyici ve reklam engelleme varsayılan olarak açık.
 - 🎁 **Ücretsiz başlayın** — günde 3 indirme; Pro lisansta sınır yok.
 
@@ -65,13 +76,14 @@ Android için RVLX Browser. İzlediğiniz YouTube videosunu, Shorts'u ya da Inst
 
 ### RVLX Media Desktop
 **Windows için hızlı indirme yöneticisi ve video indirici.**
-Dosyaları parçalara bölerek hızlı indirir, bağlantı koparsa kaldığı yerden sürdürür. YouTube videolarını, oynatma listelerini ve Mix'leri MP4 ya da MP3 olarak indirir.
+Dosyaları parçalara bölerek hızlı indirir, bağlantı koparsa kaldığı yerden sürdürür. Videoları, oynatma listelerini ve Mix'leri MP4 ya da MP3 olarak indirir.
 
-- 📋 **Oynatma listeleri ve Mix** — tek bağlantıyla listenin tamamı kuyruğa girer.
+- 🎯 **Videonun köşesinde indirme düğmesi** — Chrome, Edge ve Brave'de; YouTube, Vimeo, Dailymotion, X, TikTok, Instagram, Facebook, Twitch ve sıradan sitelerdeki videolarda.
+- 🎚️ **MP3, MP4 ya da Playlist** — tıklayınca ne indirileceğini seçin; listede "en fazla kaç video" sınırı koyun.
+- 📋 **Oynatma listeleri ve Mix** — tek bağlantıyla listenin tamamı kuyruğa girer, her liste kendi klasörüne iner.
 - ⚡ **Hızlı, kaldığı yerden devam eden indirme** — parçalı indirme, kuyruklar ve zamanlama.
-- 🧩 **Tarayıcı eklentisi** — Chrome, Edge ve Firefox'taki indirmeleri uygulamaya gönderir (mağaza onayı bekleniyor).
-- 🗂️ **Kendiliğinden klasörleme** — her liste kendi klasörüne iner.
-- 🔐 **ARVELX hesabınızla açılır** — 3 gün ücretsiz deneme.
+- 🎨 **Size göre görünüm** — altı düğme stili, üçü şeffaf.
+- 🔐 **ARVELX hesabınızla açılır** — e-posta, Google ya da Facebook hesabıyla web sitesinden giriş; 3 gün ücretsiz deneme.
 
 <img src="https://img.shields.io/github/v/release/tlgtrzi-code/arvelx.com?filter=*Desktop*&display_name=release&label=son%20s%C3%BCr%C3%BCm&style=flat-square&color=0ea5e9" alt="RVLX Media Desktop son sürüm"> <img src="https://img.shields.io/badge/Windows-10%20%2F%2011%20·%2064%20bit-0078D4?style=flat-square&logo=windows" alt="Windows 10/11 64 bit">
 
@@ -95,14 +107,14 @@ Dosyaları parçalara bölerek hızlı indirir, bağlantı koparsa kaldığı ye
 
 | Özellik | Ne sağlar |
 |---|---|
-| 👤 **Tek hesap** | Tüm ürünlere aynı arvelx.com hesabıyla girersiniz; lisanslarınızı, cihazlarınızı ve siparişlerinizi tek panelden yönetirsiniz. |
+| 👤 **Tek hesap** | Tüm ürünlere aynı arvelx.com hesabıyla girersiniz; e-posta, Google ya da Facebook ile. Lisanslarınızı, cihazlarınızı ve siparişlerinizi tek panelden yönetirsiniz. |
 | 🔑 **Şeffaf lisans** | Lisans, satın aldığınız cihaza bağlanır; kısa bir süre internetsiz de çalışmaya devam eder. |
-| 🔄 **Uygulama içi güncelleme** | Yeni sürümler uygulamanın içinden bulunur; RVLX Media ve RVLX Media Desktop indirdikleri dosyayı kurmadan önce yayınlanan **SHA-256** ile doğrular. |
+| 🔄 **Uygulama içi güncelleme** | Yeni sürümler uygulamanın içinden bulunur ve kurulmadan önce yayınlanan **SHA-256** ile doğrulanır. Ayarlarınız ve verileriniz korunur. |
 | 🇹🇷 **Türkçe ve yerel** | Arayüz, destek ve belgeler Türkçe. |
 
 ## 📦 İndirme ve doğrulama
 
-1. Ürün sayfasından ya da [Sürümler](https://github.com/tlgtrzi-code/arvelx.com/releases) bölümünden ilgili dosyayı indirin.
+1. Ürün sayfasından ya da [Sürümler](https://github.com/tlgtrzi-code/arvelx.com/releases) bölümünden ilgili dosyayı indirin. Her ürünün son iki sürümü burada durur; en yeni sürümün notu önceki sürümlerde gelenleri de özetler.
 2. Her sürümle birlikte gelen `SHA256SUMS.txt` ile dosyayı doğrulayın:
 
    ```powershell
