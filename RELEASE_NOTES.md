@@ -1,12 +1,11 @@
 # Sürüm notları
 
-Her sürümün notları, görselleri ve doğrulama değerleri (`SHA256SUMS.txt`) kendi
-yayın sayfasında durur: **[Sürümler](https://github.com/tlgtrzi-code/arvelx.com/releases)**.
+Her ürünün sürüm notları, kurulum dosyaları ve doğrulama değerleri (`SHA256SUMS.txt`)
+kendi deposunun **Releases** bölümünde durur:
 
-| Ürün | Güncel sürüm | Etiket biçimi |
-|---|---|---|
-| RVLX Kasa | <img src="https://img.shields.io/github/v/release/tlgtrzi-code/arvelx.com?filter=*Kasa*&display_name=release&label=&style=flat-square&color=2563eb" alt="RVLX Kasa"> | `vX.Y.Z` |
-| RVLX Media | <img src="https://img.shields.io/github/v/release/tlgtrzi-code/arvelx.com?filter=RVLX%20Media%20v*&display_name=release&label=&style=flat-square&color=7c3aed" alt="RVLX Media"> | `rvlx-media-vX.Y.Z` |
-| RVLX Media Desktop | <img src="https://img.shields.io/github/v/release/tlgtrzi-code/arvelx.com?filter=*Desktop*&display_name=release&label=&style=flat-square&color=0ea5e9" alt="RVLX Media Desktop"> | `rvlx-media-desktop-vX.Y.Z` |
+- **RVLX AI** — [github.com/tlgtrzi-code/RVLX-AI/releases](https://github.com/tlgtrzi-code/RVLX-AI/releases)
+- **RVLX Kasa** — [github.com/tlgtrzi-code/RVLX-Kasa/releases](https://github.com/tlgtrzi-code/RVLX-Kasa/releases)
+- **RVLX Media** — [github.com/tlgtrzi-code/RVLX-Media/releases](https://github.com/tlgtrzi-code/RVLX-Media/releases)
+- **RVLX Media Desktop** — [github.com/tlgtrzi-code/RVLX-Media-Desktop/releases](https://github.com/tlgtrzi-code/RVLX-Media-Desktop/releases)
 
-Ürün sayfaları her zaman en güncel sürümü indirir: [arvelx.com/urunler](https://www.arvelx.com/urunler).
+Ürün sayfaları ve indirme: **[arvelx.com/urunler](https://www.arvelx.com/urunler)**

@@ -7,25 +7,48 @@
 **İşinizi kolaylaştıran profesyonel yazılımlar.**
 Masaüstü, mobil ve web için RVLX ürün ailesi — tek hesap, tek lisans, güvenli güncelleme.
 
-<a href="https://www.arvelx.com"><img src="https://img.shields.io/badge/arvelx.com-ziyaret%20edin-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="arvelx.com"></a> <a href="https://www.arvelx.com/urunler"><img src="https://img.shields.io/badge/%C3%9Cr%C3%BCnler-t%C3%BCm%C3%BC-7c3aed?style=for-the-badge" alt="Ürünler"></a> <a href="https://www.arvelx.com/fiyatlandirma"><img src="https://img.shields.io/badge/Fiyatland%C4%B1rma-planlar-0ea5e9?style=for-the-badge" alt="Fiyatlandırma"></a> <a href="https://github.com/tlgtrzi-code/arvelx.com/releases"><img src="https://img.shields.io/badge/S%C3%BCr%C3%BCmler-GitHub%20Releases-111827?style=for-the-badge&logo=github" alt="Sürümler"></a>
+<a href="https://www.arvelx.com"><img src="https://img.shields.io/badge/arvelx.com-ziyaret%20edin-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="arvelx.com"></a> <a href="https://www.arvelx.com/urunler"><img src="https://img.shields.io/badge/%C3%9Cr%C3%BCnler-t%C3%BCm%C3%BC-7c3aed?style=for-the-badge" alt="Ürünler"></a> <a href="https://www.arvelx.com/fiyatlandirma"><img src="https://img.shields.io/badge/Fiyatland%C4%B1rma-planlar-0ea5e9?style=for-the-badge" alt="Fiyatlandırma"></a> <a href="https://www.youtube.com/@Arvelx-RVLX"><img src="https://img.shields.io/badge/YouTube-ARVELX-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 
 </div>
 
 ---
 
 <div align="center">
-<img src="assets/urunler.jpg" alt="RVLX ürünleri: RVLX Kasa, RVLX Media, RVLX Media Desktop; geliştirilenler: RVLX Quant, RVLX AI, RVLX Trade" width="100%">
+<img src="assets/urunler.jpg" alt="RVLX ürünleri: RVLX AI, RVLX Kasa, RVLX Media ve RVLX Media Desktop — her biri en önemli özelliğiyle" width="100%">
 </div>
 
 ## 🆕 Son güncellemelerde
 
-- **RVLX Kasa 3.1** — RVLX Rapor Modüler, Excel düzeninde yeni Faturalar ve Komisyon takibi sayfaları, 40 MB'a kadar PDF'ten E-Arşiv.
-- **RVLX Media 5.302** — artık telefonunuzun müzik uygulamalarından biri: üst paneldeki "Müzik oynatma" düğmesinden doğrudan RVLX Player açılır.
-- **RVLX Media Desktop 1.1** — Chrome, Edge ve Brave'de videonun köşesinde tek tıkla MP3, MP4 ya da tüm oynatma listesi.
+- **RVLX AI 0.2** — yeni ürün: Münazara'da modeller tartışır, hakemler gerekçeli karar verir; agent'lar işi sizin yerinize takip eder. Free süresiz, Pro ile her şey açık.
+- **RVLX Kasa 3.1** — RVLX Rapor Modüler, Excel düzeninde Faturalar ve Komisyon takibi, 40 MB'a kadar PDF'ten E-Arşiv; kenar çubuğunda diğer ARVELX ürünleri.
+- **RVLX Media 5.302** — telefonun müzik uygulamalarından biri; menüde ARVELX sosyal bağlantıları, hesap ekranında diğer ürünler.
+- **RVLX Media Desktop 1.1** — videonun köşesinde tek tıkla MP3, MP4 ya da tüm oynatma listesi; göz dostu arka planlar.
 
 ## 🚀 Yayındaki ürünler
 
+Her ürünün sürümleri kendi deposunda yayınlanır: kurulum dosyası, sürüm notları ve `SHA256SUMS.txt`.
+
 <table>
+<tr>
+<td width="120" align="center"><img src="assets/rvlx-ai.png" width="96" alt="RVLX AI"></td>
+<td>
+
+### RVLX AI
+**Tek bir yapay zekâya değil, bir kurula sorun.**
+Masaüstü yapay zekâ çalışma alanı: modeller tartışır, hakemler karar verir, agent'lar işi sizin yerinize takip eder.
+
+- ⚖️ **Münazara** — ChatGPT, Gemini, Claude, DeepSeek ve seçtiğiniz diğer sağlayıcılar birbirinin cevabını eleştirir; baş hakem son kararı verir.
+- 🤖 **Agent'lar** — Tek Seferlik, Sürekli Takip, Otonom Agent ve Canlı İzleme.
+- 🌐 **Web oturumları** — sitelere bir kez giriş; münazara ve uygulama içi tarayıcı ortak kullanır.
+- 🧠 **Kendi modelleriniz** — yerel modeller bilgisayarınızda; kendi API anahtarınız ya da ChatGPT aboneliğinizle bulut modelleri.
+- 🎁 **Free** — hesap gerekmez, süresi yoktur; Pro ile Münazara, sürekli çalışan agent'lar ve web oturumları açılır.
+
+<a href="https://github.com/tlgtrzi-code/RVLX-AI/releases/latest"><img src="https://img.shields.io/github/v/release/tlgtrzi-code/RVLX-AI?display_name=release&label=son%20s%C3%BCr%C3%BCm&style=flat-square&color=4ade80" alt="RVLX AI son sürüm"></a> <img src="https://img.shields.io/badge/Windows-10%20%2F%2011%20·%2064%20bit-0078D4?style=flat-square&logo=windows" alt="Windows 10/11 64 bit">
+
+**[⬇️ İndir ve incele](https://www.arvelx.com/urunler/rvlx-ai)** · [Sürümler](https://github.com/tlgtrzi-code/RVLX-AI/releases)
+
+</td>
+</tr>
 <tr>
 <td width="120" align="center"><img src="assets/rvlx-kasa.png" width="96" alt="RVLX Kasa"></td>
 <td>
@@ -41,9 +64,9 @@ Esnaf ve küçük işletmeler için günlük kasa takibi. Gelir gideri girin, g�
 - 🔎 **Raf yapay zekâ araması** — şikâyeti yazın, stokta işe yarayanı birkaç saniyede bulsun; benzer ürünler tek tıkla.
 - 🏪 **Her esnafa uygun** — ilaç, takviye, gıda, kozmetik, temizlik, hırdavat… raf ürün türünü tanır.
 
-<img src="https://img.shields.io/github/v/release/tlgtrzi-code/arvelx.com?filter=*Kasa*&display_name=release&label=son%20s%C3%BCr%C3%BCm&style=flat-square&color=2563eb" alt="RVLX Kasa son sürüm"> <img src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows" alt="Windows 10/11">
+<a href="https://github.com/tlgtrzi-code/RVLX-Kasa/releases/latest"><img src="https://img.shields.io/github/v/release/tlgtrzi-code/RVLX-Kasa?display_name=release&label=son%20s%C3%BCr%C3%BCm&style=flat-square&color=f5b544" alt="RVLX Kasa son sürüm"></a> <img src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows" alt="Windows 10/11">
 
-**[⬇️ İndir ve incele](https://www.arvelx.com/urunler/nexus-kasa)**
+**[⬇️ İndir ve incele](https://www.arvelx.com/urunler/rvlx-kasa)** · [Sürümler](https://github.com/tlgtrzi-code/RVLX-Kasa/releases)
 
 </td>
 </tr>
@@ -59,14 +82,13 @@ Android için RVLX Browser. İzlediğiniz YouTube videosunu, Shorts'u ya da Inst
 - 📋 **Oynatma listeleri** — "Ne kadar indirilsin?" deyin, liste kuyruğa girsin.
 - 🎈 **Seyyar İndir butonu** — gezinirken ekranda yüzen buton; MP3, MP4 ya da Playlist tek dokunuşta.
 - 📸 **Instagram Reels ve gönderileri** — herkese açık içerikte aynı düğmeyle.
-- 🎧 **RVLX Player** — indirdikleriniz kitaplıkta; arka planda ve kilit ekranında çalar, mini oynatıcı, araç ve Bluetooth tuşlarıyla kontrol.
-- 🎵 **Müzik uygulaması** — telefonun üst panelindeki "Müzik oynatma" düğmesinden doğrudan açılır.
+- 🎧 **RVLX Player** — arka planda ve kilit ekranında çalar, mini oynatıcı, araç ve Bluetooth tuşlarıyla kontrol.
 - 🛡️ **RVLX Browser** — izleyici ve reklam engelleme varsayılan olarak açık.
 - 🎁 **Ücretsiz başlayın** — günde 3 indirme; Pro lisansta sınır yok.
 
-<img src="https://img.shields.io/github/v/release/tlgtrzi-code/arvelx.com?filter=RVLX%20Media%20v*&display_name=release&label=son%20s%C3%BCr%C3%BCm&style=flat-square&color=7c3aed" alt="RVLX Media son sürüm"> <img src="https://img.shields.io/badge/Android-9%2B-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android 9+">
+<a href="https://github.com/tlgtrzi-code/RVLX-Media/releases/latest"><img src="https://img.shields.io/github/v/release/tlgtrzi-code/RVLX-Media?display_name=release&label=son%20s%C3%BCr%C3%BCm&style=flat-square&color=e58bff" alt="RVLX Media son sürüm"></a> <img src="https://img.shields.io/badge/Android-9%2B-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android 9+">
 
-**[⬇️ İndir ve incele](https://www.arvelx.com/urunler/rvlx-media)**
+**[⬇️ İndir ve incele](https://www.arvelx.com/urunler/rvlx-media)** · [Sürümler](https://github.com/tlgtrzi-code/RVLX-Media/releases)
 
 </td>
 </tr>
@@ -82,12 +104,11 @@ Dosyaları parçalara bölerek hızlı indirir, bağlantı koparsa kaldığı ye
 - 🎚️ **MP3, MP4 ya da Playlist** — tıklayınca ne indirileceğini seçin; listede "en fazla kaç video" sınırı koyun.
 - 📋 **Oynatma listeleri ve Mix** — tek bağlantıyla listenin tamamı kuyruğa girer, her liste kendi klasörüne iner.
 - ⚡ **Hızlı, kaldığı yerden devam eden indirme** — parçalı indirme, kuyruklar ve zamanlama.
-- 🎨 **Size göre görünüm** — altı düğme stili, üçü şeffaf.
 - 🔐 **ARVELX hesabınızla açılır** — e-posta, Google ya da Facebook hesabıyla web sitesinden giriş; 3 gün ücretsiz deneme.
 
-<img src="https://img.shields.io/github/v/release/tlgtrzi-code/arvelx.com?filter=*Desktop*&display_name=release&label=son%20s%C3%BCr%C3%BCm&style=flat-square&color=0ea5e9" alt="RVLX Media Desktop son sürüm"> <img src="https://img.shields.io/badge/Windows-10%20%2F%2011%20·%2064%20bit-0078D4?style=flat-square&logo=windows" alt="Windows 10/11 64 bit">
+<a href="https://github.com/tlgtrzi-code/RVLX-Media-Desktop/releases/latest"><img src="https://img.shields.io/github/v/release/tlgtrzi-code/RVLX-Media-Desktop?display_name=release&label=son%20s%C3%BCr%C3%BCm&style=flat-square&color=5fd4ff" alt="RVLX Media Desktop son sürüm"></a> <img src="https://img.shields.io/badge/Windows-10%20%2F%2011%20·%2064%20bit-0078D4?style=flat-square&logo=windows" alt="Windows 10/11 64 bit">
 
-**[⬇️ İndir ve incele](https://www.arvelx.com/urunler/RVLX-Media-Desktop)**
+**[⬇️ İndir ve incele](https://www.arvelx.com/urunler/RVLX-Media-Desktop)** · [Sürümler](https://github.com/tlgtrzi-code/RVLX-Media-Desktop/releases)
 
 </td>
 </tr>
@@ -97,9 +118,8 @@ Dosyaları parçalara bölerek hızlı indirir, bağlantı koparsa kaldığı ye
 
 <table>
 <tr>
-<td align="center" width="33%"><img src="assets/rvlx-quant.png" width="72" alt="RVLX Quant"><br><b>RVLX Quant</b><br><sub>Grafik, gösterge ve çizim araçlarıyla teknik analiz.</sub><br><a href="https://www.arvelx.com/urunler/analiz-platformu">Ürün sayfası →</a></td>
-<td align="center" width="33%"><h3>🤖</h3><b>RVLX AI</b><br><sub>Yapay zekâ asistanınız kendi bilgisayarınızda çalışır.</sub><br><a href="https://www.arvelx.com/urunler/nexus-ai">Ürün sayfası →</a></td>
-<td align="center" width="33%"><h3>📈</h3><b>RVLX Trade</b><br><sub>Kurallarınızı tanımlayın, uygulamayı bota bırakın.</sub><br><a href="https://www.arvelx.com/urunler/oto-alim-satim-botu">Ürün sayfası →</a></td>
+<td align="center" width="50%"><img src="assets/rvlx-quant.png" width="72" alt="RVLX Quant"><br><b>RVLX Quant</b><br><sub>Grafik, gösterge ve çizim araçlarıyla teknik analiz.</sub><br><a href="https://www.arvelx.com/urunler/analiz-platformu">Ürün sayfası →</a></td>
+<td align="center" width="50%"><h3>📈</h3><b>RVLX Trade</b><br><sub>Kurallarınızı tanımlayın, uygulamayı bota bırakın.</sub><br><a href="https://www.arvelx.com/urunler/oto-alim-satim-botu">Ürün sayfası →</a></td>
 </tr>
 </table>
 
@@ -114,30 +134,29 @@ Dosyaları parçalara bölerek hızlı indirir, bağlantı koparsa kaldığı ye
 
 ## 📦 İndirme ve doğrulama
 
-1. Ürün sayfasından ya da [Sürümler](https://github.com/tlgtrzi-code/arvelx.com/releases) bölümünden ilgili dosyayı indirin. Her ürünün son iki sürümü burada durur; en yeni sürümün notu önceki sürümlerde gelenleri de özetler.
-2. Her sürümle birlikte gelen `SHA256SUMS.txt` ile dosyayı doğrulayın:
+| Ürün | Sürümler | Dosya | Sistem |
+|---|---|---|---|
+| RVLX AI | [RVLX-AI](https://github.com/tlgtrzi-code/RVLX-AI/releases) | `RVLX-AI-Setup-<sürüm>.exe` | Windows 10 / 11, 64 bit |
+| RVLX Kasa | [RVLX-Kasa](https://github.com/tlgtrzi-code/RVLX-Kasa/releases) | `RVLX_Kasa_Setup.exe` | Windows 10 / 11 |
+| RVLX Media | [RVLX-Media](https://github.com/tlgtrzi-code/RVLX-Media/releases) | `rvlx-media-<sürüm>-play-release.apk` | Android 9 ve üstü (Play Store dışı kurulum) |
+| RVLX Media Desktop | [RVLX-Media-Desktop](https://github.com/tlgtrzi-code/RVLX-Media-Desktop/releases) | `RVLX_Media_Desktop_Setup_<sürüm>.exe` | Windows 10 / 11, 64 bit |
 
-   ```powershell
-   # Windows (PowerShell)
-   Get-FileHash .\RVLX_Kasa_Setup.exe -Algorithm SHA256
-   ```
+Her sürümle gelen `SHA256SUMS.txt` ile dosyayı doğrulayabilirsiniz:
 
-   Çıkan değer `SHA256SUMS.txt` içindekiyle aynı olmalıdır.
-3. Kurun. Uygulama sonraki sürümleri kendisi bulur; ayarlarınız ve verileriniz korunur.
+```powershell
+# Windows (PowerShell)
+Get-FileHash .\RVLX_Kasa_Setup.exe -Algorithm SHA256
+```
 
-| Ürün | Dosya | Sistem |
-|---|---|---|
-| RVLX Kasa | `RVLX_Kasa_Setup.exe` | Windows 10 / 11 |
-| RVLX Media | `rvlx-media-<sürüm>-play-release.apk` | Android 9 ve üstü (Play Store dışı kurulum) |
-| RVLX Media Desktop | `RVLX_Media_Desktop_Setup_<sürüm>.exe` | Windows 10 / 11, 64 bit |
+Çıkan değer `SHA256SUMS.txt` içindekiyle aynı olmalıdır. Her ürünün deposunda son iki sürüm durur; en yeni sürümün notu önceki sürümlerde gelenleri de özetler.
 
 ## ℹ️ Bu depo hakkında
 
-Bu depo ARVELX ürünlerinin **genel dağıtım** noktasıdır: kurulum dosyaları, APK'lar, sürüm notları ve doğrulama değerleri burada, **Releases** bölümünde yayınlanır. Kaynak kod burada bulunmaz; özel olarak ayrı bir yerde tutulur.
+Bu depo ARVELX'in **vitrinidir**: tüm ürünleri tek sayfada tanıtır. Kurulum dosyaları ve sürüm notları her ürünün kendi deposunda yayınlanır. Kaynak kod bu depolarda bulunmaz.
 
 ## 💬 İletişim
 
-Sorularınız ve destek için: **[arvelx.com/iletisim](https://www.arvelx.com/iletisim)**
+Sorularınız ve destek için: **[arvelx.com/iletisim](https://www.arvelx.com/iletisim)** · [Facebook](https://www.facebook.com/Arvelx/) · [Instagram](https://www.instagram.com/arvelxai/) · [YouTube](https://www.youtube.com/@Arvelx-RVLX)
 
 <div align="center">
 <br>
